@@ -17,7 +17,13 @@ The percentage of this freelancer's jobs that resulted in a great client experie
 
 ![Banner Image](https://res.cloudinary.com/defendhaiti/image/upload/v1698249552/GitHub/eef76b143584307.627d06916ce10.gif)
 
-### Hi there 👋
+### 🧰 Connect
+
+<img align="left" alt="UpWork" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/defendhaiti/image/upload/v1698252843/GitHub/upwork-1.svg"/>
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://res.cloudinary.com/defendhaiti/image/upload/v1698252843/GitHub/linkedin-icon-2.svg" />
+<br />
+
+#
 
 <!--
 **mighty6ft5max/mighty6ft5max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
