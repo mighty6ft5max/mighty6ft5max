@@ -20,83 +20,19 @@ The percentage of this freelancer's jobs that resulted in a great client experie
 
 ### Languages and Technologies
 
-<div style="display: flex; flex-wrap: wrap;">
-
 <!-- Languages -->
-<div style="flex: 25%;">
-<strong>Languages</strong>
-<br />
-<img alt="JavaScript" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> JavaScript
-<br />
-<img alt="TypeScript" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript
-<br />
-<img alt="Python" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python
-<br />
-<img alt="Bash" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash
-<br />
-</div>
 
-<!-- Frameworks & Libraries -->
-<div style="flex: 25%;">
-<strong>Frameworks & Libraries</strong>
-<br />
-<img alt="React" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
-<br />
-<img alt="NodeJS" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> NodeJS
-<br />
-<img alt="PHP" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> PHP
-<br />
-<img alt='WordPress' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> WordPress
-<br />
-</div>
+|                                                                 Languages                                                                 |                                                        Frameworks & Libraries                                                         |                                                              Tools                                                               |                                                                  Platforms & Databases                                                                  |
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img alt="JavaScript" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> JavaScript |       <img alt="React" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React        |         <img alt="Git" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git         |            <img alt='MongoDB' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB             |
+| <img alt="TypeScript" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript |     <img alt="NodeJS" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> NodeJS      | <img alt='Webpack' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /> Webpack |                <img alt='Linux' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux                 |
+|         <img alt="Python" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python         |             <img alt='PHP' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> PHP             |    <img alt='Docker' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> Docker     | <img alt='Android Studio' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" /> Android Studio |
+|           <img alt="Bash" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash            | <img alt='WordPress' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" /> WordPress |     <img alt='XCode' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> XCode     |      <img alt='AWS' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> AWS       |
 
-<!-- Tools -->
-<div style="flex: 25%;">
-<strong>Tools</strong>
-<br />
-<img alt="Git" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git
-<br />
-<img alt='Webpack' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /> Webpack
-<br />
-<img alt='Docker' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> Docker
-<br />
-<img alt='XCode' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" /> XCode
-<br />
-</div>
-
-<!-- Platforms & Databases -->
-<div style="flex: 25%;">
-<strong>Platforms & Databases</strong>
-<br />
-<img alt='MongoDB' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB
-<br />
-<img alt='Linux' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Linux
-<br />
-<img alt='Android Studio' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" /> Android Studio
-<br />
-<img alt='AWS' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> AWS
-<br />
-</div>
-
-</div>
-
-<!-- Additional Technologies (if any) -->
-<div style="display: flex; flex-wrap: wrap; margin-top: 20px;">
-<div style="flex: 25%;">
-<strong>Web Basics</strong>
-<br />
-<img alt="HTML" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> HTML
-<br />
-<img alt="CSS" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS
-<br />
-</div>
-<div style="flex: 25%;">
-<strong>Blockchain</strong>
-<br />
-<img alt='Solidity' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" /> Solidity
-<br />
-</div>
-</div>
+|                                                     Web Basics                                                      |                                                              Blockchain                                                              |
+| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| <img alt="HTML" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> HTML | <img alt='Solidity' width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" /> Solidity |
+|   <img alt="CSS" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS   |
 
 ### Connect
 
