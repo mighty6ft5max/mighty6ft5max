@@ -1,3 +1,5 @@
+![Banner Image](https://res.cloudinary.com/defendhaiti/image/upload/v1698249552/GitHub/eef76b143584307.627d06916ce10.gif)
+
 ### Hi there 👋
 
 <!--
